@@ -1,10 +1,11 @@
 # Wybidudos - The jump 
 
-Este jogo foi feito em html, css e javascript
+Este jogo foi feito usando linguagem javascript com ajuda
 
 fiz todos os sprite com pixilart 
 
-https://www.youtube.com/watch?v=r9buAwVBDhA&ab_channel=ManualdoDev link do tutorial 
+https://www.youtube.com/watch?v=r9buAwVBDhA&ab_channel=ManualdoDev
+link do tutorial 
 
 EN
 This game was made in html, css and javascript
