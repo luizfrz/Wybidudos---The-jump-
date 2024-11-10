@@ -1,6 +1,5 @@
-//explicação código javascript
-
-// vai selecionar elementos no html como 'bigodinho' e 'maleta
+// EXPLICANDO CODIGO JAVASCRIPT
+// criação de variaveis selecionando elemento no index.html
 const bigodinho = document.querySelector('.bigodinho');
 const maleta = document.querySelector('.maleta');
 // vai definir uma função chamada 'jump' que adiciona uma classe e remove uma classe no CSS 'jump com intervalo de 500 ms 
