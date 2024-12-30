@@ -3,6 +3,31 @@
     padding: 0%;
     box-sizing: border-box;
 }
+header{
+    margin: 2px;
+}
+.TitleGamer{
+    margin-left: 33%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: rgb(3, 0, 0);
+    background-size: 20px;
+    text-align: center;
+    width: 30%;
+    border-radius: 10px;
+}
+.restart{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 133px;
+    border-radius: 5px;
+}
+.restart:hover{
+    color: black;
+    background-color: white;
+}
 .game-board{
     width: 80%;
     height: 500px;
