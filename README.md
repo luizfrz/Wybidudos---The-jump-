@@ -13,13 +13,3 @@ https://github.com/user-attachments/assets/df0f6347-cff7-4be3-b2a3-e4e60a3ee9b4
 ## FOTO
 ![THE JUMP](https://github.com/user-attachments/assets/d464f170-879f-427b-802e-002d1c943745)
 
-### Deseja Testar Jogo? segue passo a passo para efetuar a clonagem...
-> Passo 1  
- `Abra o terminal (CMD, Bash ou outro de sua preferência). ` 
-
->  Passo 2  
-Digite o comando:
-```
-git clone https://github.com/luizfrz/Calculadora_Multiplas
-```
-
